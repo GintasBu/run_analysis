@@ -1,7 +1,7 @@
 Code book describing variables
 
 =================
-Column 1 contains number of the subject (person) deployed in the study. Dimenionless
+Column 1 contains number of the subject (person) deployed in the study. Dimenionless.
 Column 2 contains activity written as a character. Self explanatory.
 Columns 3 to 81 contain mean values of variables as described below. Dimensions were: for variables with names starting letter f (columns 43 to 81) are frequencies. As those were initially derived from FFT.
 
